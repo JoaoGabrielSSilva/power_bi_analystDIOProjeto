@@ -1,3 +1,3 @@
 # power_bi_analyst
 
-Repositório relacionado a formação de Power BI Analyst
+Repositório com o projeto desenvolvido para a atividade da Formação da DIO.
